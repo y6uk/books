@@ -33,7 +33,7 @@ const BookList = () => {
   console.log(totalCount)
   console.log(currentPage)
   console.log(setCurrentPage)
-  // console.log(isLoaded)
+  console.log(isLoaded)
   // console.log(category)
   // console.log(sortBy)
 
