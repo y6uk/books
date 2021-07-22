@@ -1,0 +1,33 @@
+.categories_ul li {
+  margin-right: 15px;
+  background-color: #dddddd;
+  padding: 13px 30px;
+  border-radius: 30px;
+  margin-right: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: #e9e8e8 0.1s ease-in-out;
+}
+
+.categories_ul li:hover {
+  background-color: darken(#611e1e, 2%);
+}
+
+li:active {
+  background-color: darken(#f9f9f9, 5%);
+}
+
+.categories_ul .active {
+  background-color: #282828;
+  color: #fff;
+}
+
+.categories {
+  flex: 1;
+  max-width: 80%;
+  overflow: auto;
+}
+
+.categories_ul {
+  display: flex;
+}

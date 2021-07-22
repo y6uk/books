@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "первая книга",
+      "author": "Толстой",
+      "price": 5,
+      "image": "https://im0-tub-ru.yandex.net/i?id=31917e7b82f9a21f00869d85fce495db&n=13",
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "title": "вторая книга",
+      "author": "Гоголь",
+      "price": 10,
+      "image": "https://im0-tub-ru.yandex.net/i?id=31917e7b82f9a21f00869d85fce495db&n=13",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "title": "третья книга",
+      "author": "Кант",
+      "price": 12,
+      "image": "https://im0-tub-ru.yandex.net/i?id=31917e7b82f9a21f00869d85fce495db&n=13",
+      "rating": 6
+    },
+    {
+      "id": 4,
+      "title": "четвертая книга",
+      "author": "Лавкрафт",
+      "price": 15,
+      "image": "https://im0-tub-ru.yandex.net/i?id=31917e7b82f9a21f00869d85fce495db&n=13",
+      "rating": 7
+    },
+    {
+      "id": 5,
+      "title": "пятая книга",
+      "author": "Кафка",
+      "price": 25,
+      "image": "https://im0-tub-ru.yandex.net/i?id=31917e7b82f9a21f00869d85fce495db&n=13",
+      "rating": 8
+    },
+    {
+      "id": 6,
+      "title": "книга",
+      "author": "черт",
+      "price": 55,
+      "image": "https://im0-tub-ru.yandex.net/i?id=31917e7b82f9a21f00869d85fce495db&n=13",
+      "rating": 9
+    }
+  ]
+}
